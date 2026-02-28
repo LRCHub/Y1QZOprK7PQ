@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Talk (feat. Disclosure)",
+  "base_artist": "Khalid",
+  "createdAt": "2026-02-28T09:57:40.920927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Talk (feat. Disclosure)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/01_Talk_(feat._Disclosure)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Talk (feat. Disclosure)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/02_Talk_(feat._Disclosure)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Talk (feat. Disclosure)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/03_Talk_(feat._Disclosure)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talk (feat. Disclosure)",
+      "artist": "Khalid\u0000Disclosure",
+      "has_synced": true,
+      "path": "select/04_Talk_(feat._Disclosure)_Khalid\u0000Disclosure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Talk (feat. Disclosure)",
+      "artist": "Disclosure",
+      "has_synced": true,
+      "path": "select/05_Talk_(feat._Disclosure)_Disclosure.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "46.Talk (feat. Disclosure)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/06_46.Talk_(feat._Disclosure)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Talk (feat. Disclosure) (Paused)",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/07_Talk_(feat._Disclosure)_(Paused)_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Long Talk (feat. Giggs)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/08_No_Long_Talk_(feat._Giggs)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Knife Talk (feat. 21 Savage & Project Pat)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/09_Knife_Talk_(feat._21_Savage_&_Project_Pat)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Way You Talk (feat. Gotye)",
+      "artist": "Bibio feat. Gotye",
+      "has_synced": true,
+      "path": "select/10_The_Way_You_Talk_(feat._Gotye)_Bibio_feat._Gotye.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Way You Talk (feat. Gotye)",
+      "artist": "Bibio",
+      "has_synced": true,
+      "path": "select/11_The_Way_You_Talk_(feat._Gotye)_Bibio.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Talk (feat. Josh Dally)",
+      "artist": "Timecop1983",
+      "has_synced": true,
+      "path": "select/12_Let's_Talk_(feat._Josh_Dally)_Timecop1983.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pussy Talk (feat. Doja Cat)",
+      "artist": "City Girls feat. Doja Cat",
+      "has_synced": true,
+      "path": "select/13_Pussy_Talk_(feat._Doja_Cat)_City_Girls_feat._Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pussy Talk (feat. Doja Cat)",
+      "artist": "City Girls",
+      "has_synced": true,
+      "path": "select/14_Pussy_Talk_(feat._Doja_Cat)_City_Girls.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Talk That Talk (feat. Wiz Khalifa & Project Pat)",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/15_Talk_That_Talk_(feat._Wiz_Khalifa_&_Project_Pat)_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Talk That Talk (feat. Jay-Z)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/16_Talk_That_Talk_(feat._Jay-Z)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Time to Talk (feat. Sunni Colón)",
+      "artist": "SebastiAn",
+      "has_synced": true,
+      "path": "select/17_Time_to_Talk_(feat._Sunni_Colón)_SebastiAn.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Big Talk (feat. Rick Ross)",
+      "artist": "Azealia Banks",
+      "has_synced": true,
+      "path": "select/18_Big_Talk_(feat._Rick_Ross)_Azealia_Banks.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Let 'Em Talk (feat. Eagles of Death Metal)",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/19_Let_'Em_Talk_(feat._Eagles_of_Death_Metal)_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Big Pride (Bag Talk) [feat. Young Deji] (Produced by TM88, Russ Chell and Tre Pounds)",
+      "artist": "Wiz Khalifa feat. Young Deji",
+      "has_synced": true,
+      "path": "select/20_Big_Pride_(Bag_Talk)_[feat._Young_Deji]_(Produced_by_TM88,_Russ_Chell_and_Tre_Po_Wiz_Khalifa_feat._Young_Deji.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Big Pride (Bag Talk) [feat. Young Deji]",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/21_Big_Pride_(Bag_Talk)_[feat._Young_Deji]_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Gun Talk (Feat Black Child)",
+      "artist": "Ja Rule",
+      "has_synced": false,
+      "path": "select/22_Gun_Talk_(Feat_Black_Child)_Ja_Rule.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Big Boy Talk (feat. Jeezy & Rick Ross)",
+      "artist": "DJ Khaled feat. Jeezy & Rick Ross",
+      "has_synced": true,
+      "path": "select/23_Big_Boy_Talk_(feat._Jeezy_&_Rick_Ross)_DJ_Khaled_feat._Jeezy_&_Rick_Ross.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Big Boy Talk (feat. Jeezy & Rick Ross)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/24_Big_Boy_Talk_(feat._Jeezy_&_Rick_Ross)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Talk",
+      "artist": "Khalid",
+      "has_synced": false,
+      "path": "select/pl_01_Talk_Khalid.txt"
+    }
+  ]
+}
