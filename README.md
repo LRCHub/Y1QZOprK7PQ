@@ -1,0 +1,57 @@
+# Khalid – Talk (feat. Disclosure)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:27.65] Can we just talk? Can we just talk?
+[00:31.95] Talk about where we're goin'
+[00:34.48] Before we get lost
+[00:37.13] Lend me your thoughts
+[00:38.81] Can't get what we want without knowin'
+[00:41.41] I've never felt like this before
+[00:44.84] I apologize if I'm movin' too far
+[00:48.76] Can we just talk? Can we just talk?
+[00:53.12] Figure out where we're goin'
+[01:07.12] 
+[00:56.12] Yeah, started off right
+[01:00.03] I can see it in your eyes
+[01:01.71] I can tell that you're wantin' more
+[01:05.57] What's been on your mind?
+[01:06.82] There's no reason we should hide
+[01:08.73] Tell me somethin' I ain't heard before
+[01:27.73] 
+[01:12.23] Oh, I've been dreamin' 'bout it
+[01:16.48] And it's you I'm on
+[01:19.75] So stop thinkin' 'bout it
+[01:32.25] 
+[01:24.19] Can we just talk? Can we just talk?
+[01:28.55] Talk about where we're goin'
+[01:30.10] Before we get lost
+[01:33.78] Lend me your thoughts
+[01:35.39] Can't get what we want without knowin'
+[01:38.09] I've never felt like this before
+[01:41.31] I apologize if I'm movin' too far
+[01:45.33] Can we just talk? Can we just talk?
+[01:49.78] Figure out where we're goin'
+[02:03.78] 
+[01:54.96] Penthouse view, left some flowers in the room
+[01:58.16] I'll make sure I leave the door unlocked
+[02:01.91] Now I'm on the way, swear I won't be late
+[02:05.24] I'll be there by five o'clock
+[02:19.74] 
+[02:08.73] Oh, you've been dreamin' 'bout it
+[02:13.07] And I'm what you want
+[02:16.21] So stop thinkin' 'bout it
+[02:28.71] 
+[02:20.35] Can we just talk? Can we just talk?
+[02:24.99] Talk about where we're goin'
+[02:27.43] Before we get lost
+[02:30.29] Lend me your thoughts
+[02:31.85] Can't get what we want without knowin'
+[02:34.47] I've never felt like this before
+[02:37.82] I apologize if I'm movin' too far
+[02:41.68] Can we just talk? Can we just talk?
+[02:46.18] Figure out where we're goin'
+[03:00.18] 
+[03:00.29] Figure out where we're goin'
+```
